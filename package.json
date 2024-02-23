@@ -1,25 +1,25 @@
 {
-  "name": "live_streaming",
-  "version": "1.0.0",
-  "description": "langing page",
-  "source": "index.html",
-  "scripts": {
-    "sass:watch": "sass --style=expanded --watch styles:dist",
-    "parcel:watch": "parcel serve --dist-dir public",
-    "parcel:build": "parcel build --dist-dir build public-url ./"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Lareeman/live_streamingt.git"
-  },
-  "author": "lareeman",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Lareeman/live_streamingt/issues"
-  },
-  "homepage": "https://github.com/Lareeman/live_streamingt#readme",
-  "devDependencies": {
-    "parcel": "^2.11.0",
-    "sass": "^1.71.0"
-  }
+    "name": "live_streaming",
+    "version": "1.0.0",
+    "description": "langing page",
+    "source": "index.html",
+    "scripts": {
+        "sass:watch": "sass --style=expanded --watch styles:dist",
+        "parcel:watch": "parcel serve --dist-dir public",
+        "parcel:build": "parcel build --dist-dir build public-url ./"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lareeman/live_streamingt.git"
+    },
+    "author": "lareeman",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Lareeman/live_streamingt/issues"
+    },
+    "homepage": "https://github.com/Lareeman/live_streamingt#readme",
+    "devDependencies": {
+        "parcel": "^2.11.0",
+        "sass": "^1.71.0"
+    }
 }
