@@ -111,9 +111,11 @@
             width: 115px;
             background: none;
             cursor: pointer;
+            border: none;
             text-transform: uppercase;
             @include m.font(25px, 400, v.$color_black);
             @extend %hover-light;
+
 
             &:focus {
                 outline: none;
