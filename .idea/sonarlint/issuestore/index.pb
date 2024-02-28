@@ -6,8 +6,6 @@
 index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
 C
 styles/_header.scss,c\e\ce2b1fe71a7eed561016314597ea8d157ae60874
->
-prepros.config,4\a\4a306cbc55c8db520578f98c6f7261be50276d9f
 B
 styles/_about.scss,d\0\d07ed550eb774a62fc058504602b53f696e3f611
 E
@@ -25,3 +23,9 @@ I
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+B
+styles/_cards.scss,1\3\13f72a8690f9cf0b0ee7c64466a184b392e5e8cb
+A
+styles/_work.scss,e\4\e47e8b84f1991a193c20fe97f47b9c298e56f2ce
+F
+styles/_variables.scss,0\d\0d74e145d3bbe957460c579e458bc994878865ad
