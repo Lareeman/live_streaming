@@ -22,3 +22,6 @@ I
 styles/_placeholders.scss,f\b\fb6bfe867cc167bc46205b9628aead49ae969bc3
 >
 dist/index.css,c\8\c82c756f8bbce5f30ff1708fe9fcb11c3399cd24
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
